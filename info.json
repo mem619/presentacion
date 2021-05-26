@@ -1,0 +1,386 @@
+{
+  "title": "Pruebas automatizadas",
+  "child": [{
+      "title": "Pruebas Unitarias",
+      "job": "Lider Tecnico/Desarrollador",
+      "bgimage":"https://achievement-images.teamtreehouse.com/badges_Csharp_unit_test_Stage1.png",
+      "child": [{
+        "title": "Proceso",
+        "child": [{
+            "title": "Entrada",
+            "child": [
+
+            ]
+          },
+          {
+            "title": "Proceso",
+            "child": []
+          }
+        ]
+      }]
+    },
+    {
+      "title": "Pruebas automatizadas de API",
+      "job": "Lider Tecnico/Ingeniero Tester",
+      "bgimage":"https://image.flaticon.com/icons/png/512/627/627558.png",
+      "child": [{
+        "title": "Proceso",
+        "child": [{
+            "title": "Entrada",
+            "child": [
+
+            ]
+          },
+          {
+            "title": "Proceso",
+            "child": []
+          },
+          {
+            "title": "Salida",
+            "child": []
+          }
+        ]
+      }]
+    },
+    {
+      "title": "Pruebas automatizadas de GUI",
+      "job": "Equipo de Testing",
+      "bgimage":"https://www.scnsoft.com/blog-pictures/test-automation/manual+automated-testing+integrated-approach_01-cover.png",
+      "child": [{
+        "title": "Proceso",
+        "child": [{
+            "title": "Planeacion",
+            "child": [
+              {
+                "title": "Documentacion de casos de prueba",
+                "child": [
+                  {
+                    "title": "Suit de testing",
+                    "child": [
+        
+                    ]
+                  },
+                  {
+                    "title": "Escenarios de prueba",
+                    "child": [
+        
+                    ]
+                  },
+                  {
+                    "title": "Casos de pruebas",
+                    "child": [
+        
+                    ]
+                  },
+                  {
+                    "title": "Documento de viabilidad",
+                    "child": [
+        
+                    ]
+                  }                  
+                ]
+              },
+              {
+                "title": "Administrador de pruebas",
+                "child": [
+                  {
+                    "title": "TestRail",
+                    "child": [
+        
+                    ]
+                  },{
+                    "title": "TestLink",
+                    "child": [
+        
+                    ]
+                  },{
+                    "title": "Azure Test Plans",
+                    "child": [
+        
+                    ]
+                  },{
+                    "title": "QMetry",
+                    "child": [
+        
+                    ]
+                  },{
+                    "title": "Zephyr",
+                    "child": [
+        
+                    ]
+                  },{
+                    "title": "qTest",
+                    "child": [
+        
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Plan de prueba",
+                "child": [
+                  {
+                    "title": "Estrategia de prueba",
+                    "child": [
+        
+                    ]
+                  },
+                  {
+                    "title": "Matriz de trazabilidad",
+                    "child": [
+        
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Desarrollo",
+            "child": [ {
+              "title": "Configuracion de entornos",
+              "child": [
+                {
+                  "title": "Atlasian",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Microsoft",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Open Source",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Integraciones",
+                  "child": [
+
+                  ]
+                }
+              ]
+            },{
+              "title": "Desarrollo de pruebas",
+              "child": [
+                {
+                  "title": "Code testing",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Revisiones en pares",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Quality gates",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Despliegue a ambientes",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }, {
+              "title": "Revisión y referencia de casos y scripts de prueba",
+              "child": [
+                {
+                  "title": "Validacion de pruebas en diferentes escenarios",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Verificacion de cumplimiento plan de pruebas",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Revision de rendimiento de pruebas",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Revision de vigencia de reglas de negocio",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }]
+          },
+          {
+            "title": "Ejecucion",
+            "child": [{
+              "title": "Ejecucion de pruebas",
+              "child": [
+                {
+                  "title": "Ejecucion Manual",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Disparador por fechas",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Disparador por evento",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            },{
+              "title": "Resumenes de ejecucion",
+              "child": [
+                {
+                  "title": "Reportes de ejecucion de Test Suit",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Tiempos de ejecucion y revision por escenarios",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }, {
+              "title": "Bugs Automatizados",
+              "child": [
+                {
+                  "title": "Alta de incidencias.",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Informe de incidencias.",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Notificacion de incidencias.",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }, {
+              "title": "Validacion de flujo",
+              "child": [
+                {
+                  "title": "Comprobacion contra el plan de pruebas",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Validacion de cumplimiento de requerimientos",
+                  "child": [
+      
+                  ]
+                },{
+                  "title": "Revision de resultados de ejecucion",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }, {
+              "title": "Informe de prueba de software",
+              "child": [
+                {
+                  "title": "Resumenes de insidencias de software",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Dashboard de ejecucion y resultados",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Informe de implementacion",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Informe de Resultados de testing",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Artefactos de entrega, manuales, documentos tecnicos, relaciones de trazabilidad.",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }]
+          },
+          {
+            "title": "Mantenimiento",
+            "child": [{
+              "title": "Depuracion de scripts y casos de prueba",
+              "child": [
+                {
+                  "title": "Validacion de scripts requeridos o detectados",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Revision de casos de prueba contra reglas de negocio",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            },{
+              "title": "Optimizacion de scripts",
+              "child": [
+                {
+                  "title": "Mantenimeinto a scripts requeridos o detectados",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            },{
+              "title": "Atencion a requerimientos de integracion.",
+              "child": [
+                {
+                  "title": "Atencion a solicitudes de integraciones",
+                  "child": [
+      
+                  ]
+                },
+                {
+                  "title": "Validacion del estado vigente de integraciones",
+                  "child": [
+      
+                  ]
+                }
+              ]
+            }]
+          }
+        ]
+      }]
+    }
+  ]
+}
